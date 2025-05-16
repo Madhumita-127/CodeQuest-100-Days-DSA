@@ -8,3 +8,4 @@ for i in s:
 q = set(l)
 for i in q:
     print(i,':',l.count(i))
+    
